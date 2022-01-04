@@ -1,6 +1,6 @@
 # Oculus
 
-This project was bootstrapped with [Create React App](https://product-sales-64a4b.web.app/).
+This project was bootstrapped with [Create React App](https://oculus1-209b8.web.app/).
 
 ## Available Scripts
 
